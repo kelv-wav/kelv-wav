@@ -1,5 +1,5 @@
 # 💫 About Me:
-📖 Estudante de CyberSecurity<br>👩‍💻 Estou em busca de mais conhecimento<br>🎁 Em breve o 'letters'
+📖 Estudante de Backend<br>👩‍💻 Estou em busca de mais conhecimento<br>🎁 Em breve o 'letters'
 
 
 ## 🌐 Socials:
