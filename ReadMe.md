@@ -1,7 +1,6 @@
 <h1 align="center">Ola 👋, Eu sou Kelvin</h1>
 <h3 align="center">Sou estudante de java com foco em backend</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
