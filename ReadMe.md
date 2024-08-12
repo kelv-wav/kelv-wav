@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Im Kelvin</h1>
-# 💫 About Me:
+
 🐧 | Technology enthusiast<br>☕ | Java<br>🖥️ | JavaScript<br>🔷 | He/His<br>🏝️ | Brazil
 
 
