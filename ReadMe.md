@@ -1,5 +1,5 @@
 # 💫 Kel
-🐧 | Technology enthusiast<br>☕ | Kotlin<br>🔷 | He/His<br>🏝️ | Brazil
+🐧 | Technology enthusiast<br>☕ | Kotlin & Java<br>🔷 | He/His<br>🏝️ | Brazil
 
 
 ## 🌐 Socials:
